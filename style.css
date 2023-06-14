@@ -56,7 +56,7 @@ footer {
 .skills .skills-content,
 .contact .contact-content {
     display: flex;
-    flex-wrap: nowrap;
+    flex-wrap: wrap;
     align-items: center;
     justify-content: space-between;
 }
