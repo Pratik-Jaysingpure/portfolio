@@ -84,7 +84,7 @@ section .title::before {
 
 section .title::after {
     position: absolute;
-    bottom: -8px;
+    bottom: -35px;
     left: 50%;
     font-size: 20px;
     color: crimson;
